@@ -27,3 +27,7 @@ Assuming that the population grows exponentially, how does this compare to the e
 # Question 3:
 
 ![Screenshot 2023-12-04 at 16 44 41](https://github.com/user39201/logistic_growth/assets/150145166/3501801a-5b88-48ba-b9e4-67cee007edfd)
+
+The figure shows the key difference between logistic and exponential growth of the population. The exponential population grows continually at it's initial growth rate, whereas the logistic growth line demonstrates the slowing down of this growth rate, until it plateaus at it's carrying capacity.
+
+These lines were calculated using the parameters for N0 = 1917, r = 0.03, K = 1.000e+9
