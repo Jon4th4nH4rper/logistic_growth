@@ -1,6 +1,6 @@
 For this analysis I used the .csv data for experiment 2
 
-Question 1: 
+#Question 1: 
 
 This is an analysis of population growth of Escherichia coli that has been suspended in 100μl of growth medium. The E. coli will be added to an additional 900μl of the same growth medium to give an even 1ml total volume. Due to plentiful resources for growth, the E. coli will begin multiplying from their initial population size (N0), at an intrinsic growth rate (r), once exceeding the lag and exponential phases of growth, the population will begin exhausting it's resources causing the population growth rate to decrease. The population will then plateau at it's maximal viable population size given the resource availability, this being the carrying capacity (K). The analysis aims to estimate these values (N0, r, K) from experimental data by modelling the changes in population size throughout this period. The model in question is shown below which relates the population size at time t N(t) to N0, r and K:
 
